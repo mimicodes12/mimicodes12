@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning language C.
 - 📫 How to reach me: amyjeanbenoit12@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I don't know what I am doing, but I am perserving through.😂
+- ⚡ Fun fact: I don't know what I am doing, but I am persevering through.😂
 
 <!---
 mimicodes12/mimicodes12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
